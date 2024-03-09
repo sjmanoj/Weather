@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
 
+## How to Use
+
+1. Sign up for an account on [OpenWeatherMap](https://openweathermap.org/).
+2. Once logged in, navigate to the API section.
+3. Generate an API key for your application.
+4. Copy the API key.
+5. Paste it in the 'apiKey' section of 'weather.service.ts' file.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
