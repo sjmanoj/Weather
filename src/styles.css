@@ -23,3 +23,7 @@ body {
   margin: 0;
   /* height: 100vh; */
 }
+
+@media (max-width: 768px) {
+  /* Styles applied when the screen width is 768px or less */
+}
